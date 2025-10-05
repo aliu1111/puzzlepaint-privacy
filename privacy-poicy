@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Gizlilik Politikası — Solo Gaming Studios</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height:1.6; padding:24px; color:#111; background:#fff; }
+    header h1 { margin:0 0 8px 0; font-size:1.6rem; }
+    header p { margin:0 0 20px 0; color:#555; }
+    section { margin-bottom:18px; }
+    h2 { font-size:1.15rem; margin:12px 0; }
+    ul { margin:8px 0 8px 20px; }
+    code { background:#f4f4f4; padding:2px 6px; border-radius:4px; }
+    .note { background:#fffbeb; border-left:4px solid #f5c26b; padding:10px; margin:12px 0; }
+    footer { margin-top:30px; color:#666; font-size:0.95rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gizlilik Politikası</h1>
+    <p>Geçerli: 5 Ekim 2025</p>
+    <p>Bu politika, Solo Gaming Studios tarafından geliştirilen boyama ve puzzle öğeleri içeren mobil uygulama (bundan sonra "Uygulama") için hazırlanmıştır.</p>
+  </header>
+
+  <section>
+    <h2>1. Temel İlkeler</h2>
+    <p>Solo Gaming Studios olarak kullanıcıların gizliliğine önem veriyoruz. Bu politika toplanan bilgileri, kullanım amaçlarını, paylaşım durumlarını ve kullanıcıların haklarını açıklar.</p>
+  </section>
+
+  <section>
+    <h2>2. Hangi verileri topluyoruz?</h2>
+    <p>Aşağıdaki veri türleri uygulama aracılığıyla toplanabilir:</p>
+    <ul>
+      <li><strong>Teknik ve cihaz bilgileri:</strong> Cihaz türü, işletim sistemi, benzersiz cihaz tanımlayıcıları, uygulama sürümü ve bağlantı bilgileri.</li>
+      <li><strong>Kullanım verileri:</strong> Oyun içi aktiviteler (oyun seviyeleri, tamamlanan puzzle'lar, oynama süreleri), hata raporları ve performans verileri.</li>
+      <li><strong>Kullanıcı tarafından sağlanan bilgiler:</strong> İletişim formu, destek talepleri veya e-posta aboneliği gibi durumlarda verilen isim ve e-posta adresi.</li>
+      <li><strong>Ödeme bilgileri:</strong> Uygulama içi satın almalar varsa, ödeme işlemleri doğrudan üçüncü taraf ödeme sağlayıcıları (Google Play, Apple App Store vb.) aracılığıyla gerçekleştirilir; kart bilgileri doğrudan bizde saklanmaz.</li>
+      <li><strong>Reklam ve analitik verileri:</strong> Üçüncü taraf analitik ve reklam SDK'ları tarafından toplanan anonim/aggregat veriler.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>3. Çocukların Gizliliği</h2>
+    <p>Uygulamamız çocuklara yönelik içerik barındırabilir. 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplanmaz. Eğer ebeveyn izni gerektiren bir durum (ör. e-posta ile kayıt) ortaya çıkarsa, ebeveyn onayı talep edilir. Ebeveyn izni olmadan bir çocuğun kişisel bilgilerinin toplandığını fark ederseniz, lütfen bizimle <a href="mailto:referans288@gmail.com">referans288@gmail.com</a> üzerinden iletişime geçin; verileri silme adımlarını başlatacağız.</p>
+    <div class="note">Not: Bazı bölgelerdeki yasal gereklilikler farklı olabilir (ör. COPPA, GDPR-a ilişkin çocuk koruma kuralları). Uygulamanın hedef pazarına göre ek uyumluluk sağlanacaktır.</div>
+  </section>
+
+  <section>
+    <h2>4. Verileri neden kullanıyoruz?</h2>
+    <ul>
+      <li>Uygulama deneyimini sağlamak, oyun ilerlemesini kaydetmek ve oyun verilerini geri yüklemek.</li>
+      <li>Hataları tespit etmek, performansı iyileştirmek ve müşteri desteği sunmak.</li>
+      <li>Kullanıcı tercihlerine uygun içerik/öneriler sunmak ve uygulama güncellemeleri hakkında bilgilendirme yapmak.</li>
+      <li>Yasal yükümlülüklerin yerine getirilmesi ve kötüye kullanımların önlenmesi.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>5. Üçüncü taraflarla paylaşım</h2>
+    <p>Verileriniz aşağıdaki durumlarda üçüncü taraflarla paylaşılabilir:</p>
+    <ul>
+      <li><strong>Hizmet sağlayıcılar:</strong> Analitik, veri depolama, bulut hizmetleri, hata raporlama ve ödeme işlemleri gibi operasyonel hizmetler için güvenilir üçüncü taraflarla veri paylaşımı yapılabilir.</li>
+      <li><strong>Reklam ortakları:</strong> Uygulama içinde reklam gösteriliyorsa, reklam SDK'ları anonimize edilmiş kullanım verileri toplayabilir.</li>
+      <li><strong>Yasal yükümlülükler:</strong> Kanun, mahkeme kararı veya resmi talepler durumunda gerekli bilgileri paylaşma zorunluluğumuz olabilir.</li>
+    </ul>
+    <p>Üçüncü tarafların veri kullanım politikaları farklı olabilir; ilgili üçüncü tarafların gizlilik politikalarını incelemenizi öneririz.</p>
+  </section>
+
+  <section>
+    <h2>6. Analitik ve çerezler (cookies)</h2>
+    <p>Uygulama içinde üçüncü taraf analitik araçları (ör. Google Analytics for Firebase vb.) kullanılabilir. Bu araçlar uygulama kullanımını ölçer ve geliştiriciye raporlar sunar. Uygulama genellikle çerezlerden ziyade cihaz tabanlı tanımlayıcılar kullanır.</p>
+  </section>
+
+  <section>
+    <h2>7. Reklam ve kişiselleştirme</h2>
+    <p>Eğer uygulama reklam gösteriyorsa, bazı reklam ortakları ilgi alanına dayalı reklam sunabilmek için sınırlı veriler toplayabilir. Kullanıcıların reklam kişiselleştirmesini kapatma seçenekleri cihaz veya reklam sağlayıcı aracılığıyla bulunabilir.</p>
+  </section>
+
+  <section>
+    <h2>8. Veri saklama süresi</h2>
+    <p>Toplanan veriler, amacın gerektirdiği süre boyunca saklanır. Oyun ilerleme verileri gibi kullanıcıya ait veriler uzun süreli (ör. kullanıcı uygulamayı kullanmayı bıraktığında bile) saklanabilir; ancak gereksiz veriler güvenli şekilde silinir veya anonimleştirilir.</p>
+  </section>
+
+  <section>
+    <h2>9. Güvenlik</h2>
+    <p>Verilerin güvenliğini sağlamak için makul idari, teknik ve fiziksel önlemler uygulanır. Ancak hiçbir veri iletim yöntemi veya depolama tamamen güvenli değildir; güvenlik ihlali riski her zaman vardır. Herhangi bir güvenlik olayı tespit edildiğinde, yasal gereklilikler doğrultusunda etkilenen kullanıcılara bildirimde bulunulacaktır.</p>
+  </section>
+
+  <section>
+    <h2>10. Kullanıcı hakları</h2>
+    <p>Kullanıcılar aşağıdaki haklara sahiptir (uygulanabilir yasalar çerçevesinde):</p>
+    <ul>
+      <li>Kişisel verilerine erişim talep etme</li>
+      <li>Yanlış veya eksik verilerin düzeltilmesini isteme</li>
+      <li>Verilerin silinmesini (unutulma hakkı) talep etme</li>
+      <li>Veri işleme kısıtlaması veya itiraz etme</li>
+      <li>Veri taşınabilirliği talep etme (uygulanabilirse)</li>
+    </ul>
+    <p>Bu talepler için lütfen <a href="mailto:referans288@gmail.com">referans288@gmail.com</a> adresinden bizimle iletişime geçin. Talebinizin işleme alınması için kimlik doğrulaması gerekebilir.</p>
+  </section>
+
+  <section>
+    <h2>11. Uygulama içi bağlantılar ve üçüncü taraf içerik</h2>
+    <p>Uygulama üçüncü taraf web sitelerine veya hizmetlere bağlantı verebilir. Bu bağlantılara yönlendirildiğinizde, ilgili sitelerin gizlilik politikaları geçerli olur. Solo Gaming Studios bu üçüncü tarafların gizlilik uygulamalarından sorumlu değildir.</p>
+  </section>
+
+  <section>
+    <h2>12. Politika güncellemeleri</h2>
+    <p>Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler uygulama içi bildirim veya e-posta yoluyla duyurulabilir. Politikanın en güncel hâli her zaman bu sayfada bulunur (veya uygulama içindeki Gizlilik Politikası bölümünde).</p>
+  </section>
+
+  <section>
+    <h2>13. İletişim</h2>
+    <p>Gizlilik uygulamalarımız, veri talepleriniz veya bu politikayla ilgili sorularınız için lütfen bize ulaşın:</p>
+    <p><strong>Solo Gaming Studios</strong><br>
+       E-posta: <a href="mailto:referans288@gmail.com">referans288@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>Bu belge bilgilendirme amaçlıdır ve hukuki tavsiye yerine geçmez. Özellikle Kişisel Verilerin Korunması Kanunu (KVKK), GDPR veya bölgesel çocuk koruma yasaları kapsamında tam uyumluluk gereksinimleriniz varsa, bir hukuk danışmanına başvurmanız tavsiye edilir.</p>
+  </footer>
+</body>
+</html>
